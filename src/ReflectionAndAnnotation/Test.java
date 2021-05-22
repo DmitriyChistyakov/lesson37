@@ -10,5 +10,5 @@ import java.lang.annotation.Target;
 
 public @interface Test {
 //    String name () default "";
-    String prioritet () default "0";
+    String prioritet () default "1";
 }
